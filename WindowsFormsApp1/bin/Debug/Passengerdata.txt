@@ -1,0 +1,5 @@
+Format data: <Identity number> <Name> <Surname> <Sex>
+18520206 Cuong Nguyen male
+43526728 Nhu Le female
+18520216 Hao Phan male
+18520713 Hieu Nguyen male

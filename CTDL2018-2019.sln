@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTDL2018-2019", "WindowsFormsApp1\CTDL2018-2019.csproj", "{AFABFEEB-5B91-4F93-A93A-A14CC7590029}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back_end", "back_end", "{53099AA7-056D-42D4-9EB8-19A3373A917B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFABFEEB-5B91-4F93-A93A-A14CC7590029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFABFEEB-5B91-4F93-A93A-A14CC7590029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFABFEEB-5B91-4F93-A93A-A14CC7590029}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFABFEEB-5B91-4F93-A93A-A14CC7590029}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF130B13-D790-4773-A8A2-E960577784CE}
+	EndGlobalSection
+EndGlobal

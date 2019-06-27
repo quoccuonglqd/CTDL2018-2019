@@ -1,0 +1,5 @@
+4
+plane1 Boeing 30 2
+plane2 Boeing 23 1
+plane3 Boeing 20 1
+plane4 jet 43 0

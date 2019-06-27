@@ -1,0 +1,19 @@
+Format data: <Flight serial> <Depart time> <Destination> <Flight state> <Plane serial of the flight>
+======================================================
+Information of the flight c6
+c6 10/12/2019 nhatrang Ticket_available plane2
+======================================================
+Information of the flight c5
+c5 10/10/2023 singapore Flight_denied plane4
+======================================================
+Information of the flight c3
+c3 5/5/1455 lao Ticket_available plane3
+======================================================
+Information of the flight c2
+c2 10/10/2010 newyork Ticket_available plane2
+======================================================
+Information of the flight c1
+c1 11/10/2000 vietnam Ticket_available plane1
+======================================================
+Information of the flight c4
+c4 22/11/2000 nhatrang Ticket_available plane1

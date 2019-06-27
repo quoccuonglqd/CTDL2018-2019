@@ -1,0 +1,16 @@
+Format data: <Ticket number> <Identity card>
+Ticket information of flight c3
+1    18520206
+==========================================
+Ticket information of flight c2
+3    43526728
+2    18520206
+1    18520216
+==========================================
+Ticket information of flight c1
+2    43526728
+1    18520206
+==========================================
+Ticket information of flight c4
+1    18520713
+==========================================
